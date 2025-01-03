@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Android App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="user">Usuario</string>
+    <string name="placeholder_password">Contraseña</string>
+    <string name="accept">Aceptar</string>
+    <string name="not_register">Si no te has registrado, registrar</string>
+    <string name="register">registrar</string>
+    <string name="title_app">¡Bienvenido a la app\nMi Banca!</string>
+    <string name="log_in">Iniciar sesion</string>
+    <string name="my_cards">Mis tarjetas</string>
+    <string name="payment">Pagar</string>
+    <string name="my_movements">Mis movimientos</string>
+    <string name="add_card">Agregar tarjeta</string>
+    <string name="submit_payment">Realizar Pago</string>
+    <string name="ok">OK</string>
+    <string name="cancel_paymentq">Cancelar</string>
+    <string name="confirm_payment">Confirmar Pago</string>
+    <string name="confirm">Confirmar</string>
+    <string name="confirm_payment_message">¿Está seguro que desea realizar el pago?\n\n"
+            "Tarjeta Configurada: %1$s\n"
+            "Tarjeta Destinatario: %2$s\n"
+            "Nombre Destinatario: %3$s\n"
+            "Motivo de Pago: %4$s</string>
+    <string name="success_title">Éxito</string>
+    <string name="payment_success_message">Pago realizado con éxito.</string>
+    <string name="enter_first_name">Nombre</string>
+    <string name="enter_last_name">Apellido</string>
+    <string name="enter_email">Correo</string>
+    <string name="password">Contraseñas</string>
+    <string name="next">Continuar</string>
+    <string name="invalid_email">Agrega un correo correcto</string>
+    <string name="enter_password">Agrega una contraseñas correcta</string>
+    <string name="invalid_password">Tu contraseña debe ser mayor 8 caracteres</string>
+    <string name="card_initial_number">••••   ••••   ••••   ••••</string>
+    <string name="card_initial_name">Titular</string>
+    <string name="card_initial_date">MM/AA</string>
+    <string name="card_payments_number">Número de la tarjeta</string>
+    <string name="card_payments_name">Nombre del titular</string>
+    <string name="card_payments_date">Fecha de expiración</string>
+    <string name="loader">Cargando...</string>
+    <string name="error">Error</string>
+    <string name="please_complete_all_fields">Por favor complete todos los campos.</string>
+    <string name="save">Guardar</string>
+    <string name="save_success">Se agrego correctamente</string>
+    <string name="card_number">Tarjeta: %s</string>
+    <string name="card_name">Nombre: %s</string>
+    <string name="card_description">Rason de pago: %s</string>
+    <string name="card_date">Fecha: %s</string>
+    <string name="card_type">Tipo de tarjeta: %s</string>
+
+</resources>

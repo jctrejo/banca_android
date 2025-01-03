@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104809156878",
+    "project_id": "mit-android-eeb5c",
+    "storage_bucket": "mit-android-eeb5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104809156878:android:f023ee9afa3399b815875f",
+        "android_client_info": {
+          "package_name": "com.android.mibanca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQK7PsYsgtz7RXzoNeGNxkiiz_JE69pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
